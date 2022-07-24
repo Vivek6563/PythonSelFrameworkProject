@@ -1,0 +1,61 @@
+2022-06-05 08:19:37,059 :INFO : test_formSubmission :first name is Rahul
+2022-06-05 08:19:58,318 :INFO : test_e2e :getting all the card titles
+2022-06-05 08:19:58,375 :INFO : test_e2e :iphone X
+2022-06-05 08:19:58,393 :INFO : test_e2e :Samsung Note 8
+2022-06-05 08:19:58,410 :INFO : test_e2e :Nokia Edge
+2022-06-05 08:19:58,426 :INFO : test_e2e :Blackberry
+2022-06-05 08:19:58,775 :INFO : test_e2e :Entering country name as ind
+2022-06-05 08:20:04,509 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-06-05 10:08:56,100 :INFO : test_formSubmission :first name is Rahul
+2022-06-05 10:10:31,248 :INFO : test_e2e :getting all the card titles
+2022-06-05 10:10:31,323 :INFO : test_e2e :iphone X
+2022-06-05 10:10:31,361 :INFO : test_e2e :Samsung Note 8
+2022-06-05 10:10:31,391 :INFO : test_e2e :Nokia Edge
+2022-06-05 10:10:31,417 :INFO : test_e2e :Blackberry
+2022-06-05 10:10:32,273 :INFO : test_e2e :Entering country name as ind
+2022-06-05 10:10:38,609 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-15 07:57:51,960 :INFO : test_formSubmission :first name is Rahul
+2022-07-15 07:58:01,679 :INFO : test_e2e :getting all the card titles
+2022-07-15 07:58:01,728 :INFO : test_e2e :iphone X
+2022-07-15 07:58:01,744 :INFO : test_e2e :Samsung Note 8
+2022-07-15 07:58:01,761 :INFO : test_e2e :Nokia Edge
+2022-07-15 07:58:01,775 :INFO : test_e2e :Blackberry
+2022-07-15 07:58:02,131 :INFO : test_e2e :Entering country name as ind
+2022-07-15 07:58:08,158 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-15 08:36:56,748 :INFO : test_formSubmission :first name is Rahul
+2022-07-15 08:37:12,482 :INFO : test_e2e :getting all the card titles
+2022-07-15 08:37:12,569 :INFO : test_e2e :iphone X
+2022-07-15 08:37:12,582 :INFO : test_e2e :Samsung Note 8
+2022-07-15 08:37:12,612 :INFO : test_e2e :Nokia Edge
+2022-07-15 08:37:12,636 :INFO : test_e2e :Blackberry
+2022-07-15 08:37:13,567 :INFO : test_e2e :Entering country name as ind
+2022-07-15 08:37:19,949 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-18 12:05:24,932 :INFO : test_formSubmission :first name is Sagar
+2022-07-18 12:10:05,472 :INFO : test_formSubmission :first name is Rahul
+2022-07-18 12:10:12,255 :INFO : test_e2e :getting all the card titles
+2022-07-18 12:10:12,287 :INFO : test_e2e :iphone X
+2022-07-18 12:10:12,301 :INFO : test_e2e :Samsung Note 8
+2022-07-18 12:10:12,315 :INFO : test_e2e :Nokia Edge
+2022-07-18 12:10:12,328 :INFO : test_e2e :Blackberry
+2022-07-18 12:11:24,989 :INFO : test_formSubmission :first name is Sagar
+2022-07-18 12:11:32,987 :INFO : test_e2e :getting all the card titles
+2022-07-18 12:11:33,019 :INFO : test_e2e :iphone X
+2022-07-18 12:11:33,033 :INFO : test_e2e :Samsung Note 8
+2022-07-18 12:11:33,049 :INFO : test_e2e :Nokia Edge
+2022-07-18 12:11:33,062 :INFO : test_e2e :Blackberry
+2022-07-18 12:16:31,729 :INFO : test_formSubmission :first name is Vivek
+2022-07-18 12:16:36,771 :INFO : test_e2e :getting all the card titles
+2022-07-18 12:16:36,804 :INFO : test_e2e :iphone X
+2022-07-18 12:16:36,819 :INFO : test_e2e :Samsung Note 8
+2022-07-18 12:16:36,833 :INFO : test_e2e :Nokia Edge
+2022-07-18 12:16:36,849 :INFO : test_e2e :Blackberry
+2022-07-18 12:24:37,735 :INFO : test_formSubmission :first name is Rajeev
+2022-07-18 12:24:43,983 :INFO : test_e2e :getting all the card titles
+2022-07-18 12:24:44,021 :INFO : test_e2e :iphone X
+2022-07-18 12:24:44,039 :INFO : test_e2e :Samsung Note 8
+2022-07-18 12:24:44,054 :INFO : test_e2e :Nokia Edge
+2022-07-18 12:24:44,071 :INFO : test_e2e :Blackberry
